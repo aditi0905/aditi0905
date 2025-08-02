@@ -4,7 +4,7 @@
 <h3 align="center">A passionate full stack developer and tech enthusiasts</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=biswajit0123&label=Profile%20views&color=0e75b6&style=flat" alt="biswajit0123" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi0905&label=Profile%20views&color=0e75b6&style=flat" alt="aditi0905" /> </p>
 
 - 📫 How to reach me **aditisinha893@gmail.com**
 
